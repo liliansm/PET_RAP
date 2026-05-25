@@ -1,0 +1,8 @@
+projection;
+strict ( 1 );
+
+define behavior for ZC_ANIMAL_01 alias Animal
+{
+  use create;
+  use delete;
+}
